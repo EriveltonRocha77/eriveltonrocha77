@@ -1,10 +1,10 @@
 # 🛡️ Erivelton da Rocha Silva
 
-**`Estudante de Engenharia de Software e Segurança da Informação | Candidato a Estágio em Cybersecurity`**
+**`Software Engineering & Information Security Student | Seeking Cybersecurity Internship`**
 
-Olá! Me chamo Erivelton da Rocha Silva, sou de Sertãozinho/SP e estudante de Engenharia de Software (Unicesumar) e Segurança da Informação (Anhembi Morumbi). Tenho base sólida em desenvolvimento full-stack, infraestrutura e fundamentos de cibersegurança.  
+Hi! My name is Erivelton da Rocha Silva, I'm from Sertãozinho/SP, Brazil, and I'm currently studying Software Engineering (Unicesumar) and Information Security (Anhembi Morumbi). I have a solid foundation in full-stack development, infrastructure, and cybersecurity fundamentals.
 
-Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, detecção de anomalias, regras YARA, SAST/DAST e arquitetura de microserviços. Busco estágio em Segurança da Informação (SOC, Blue Team, Red Team, vulnerabilidades, infraestrutura segura ou DevSecOps) para aplicar conhecimentos técnicos, contribuir com a proteção de ativos e evoluir profissionalmente.
+I developed an **XDR (Extended Detection and Response)** platform with SIEM, anomaly detection, YARA rules, SAST/DAST, and microservices architecture. I'm looking for an internship in Information Security (SOC, Blue Team, Red Team, vulnerability management, secure infrastructure, or DevSecOps) to apply my technical knowledge, contribute to asset protection, and grow professionally.
 
 <p align="left">
   <a href="https://linkedin.com/in/eriveltonrocha18">
@@ -14,7 +14,7 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://eriveltonrochaportifolio1.pages.dev">
-    <img alt="Portfólio" title="Portfólio" src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:eriveltoncurriculo@gmail.com">
     <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -23,7 +23,7 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
   align="left" 
@@ -125,29 +125,29 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
 <br/>
 <br/>
 
-### 🔐 Segurança e Ferramentas
+### 🔐 Security & Tools
 
-- Conceitos de **SIEM**, **XDR**, **SAST**, **DAST**
-- Análise de Vulnerabilidades, **Nmap**, **Wireshark**
-- Regras **YARA**, Detecção de Anomalias
-- Conhecimentos básicos em **Burp Suite**
-- Linux (Kali), Docker, Microserviços e APIs REST
+- Concepts of **SIEM**, **XDR**, **SAST**, **DAST**
+- Vulnerability Analysis, **Nmap**, **Wireshark**
+- **YARA** Rules, Anomaly Detection
+- Basic knowledge of **Burp Suite**
+- Linux (Kali), Docker, Microservices and REST APIs
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=EriveltonRocha77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=EriveltonRocha77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&hide_border=true" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriveltonRocha77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriveltonRocha77&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&hide_border=true" 
   />
 </p>
 
@@ -155,25 +155,25 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
 **[XDR Neo-Platform | Enterprise Security Lab](https://github.com/EriveltonRocha77/-XDR-Platform-Enterprise-Security-Lab-)**  
-Plataforma full-stack de Extended Detection and Response (XDR) com FastAPI, Docker, SIEM, detecção de anomalias, regras YARA, SAST/DAST e arquitetura de microserviços.
+Full-stack Extended Detection and Response (XDR) platform built with FastAPI, Docker, SIEM, anomaly detection, YARA rules, SAST/DAST, and microservices architecture.
 
-**[OrderFlow - Sistema Inteligente de Processamento de Pedidos](https://github.com/EriveltonRocha77/-OrderFlow---Sistema-Inteligente-de-Processamento-de-Pedidos-)**  
-API em Java + Spring Boot com Design Patterns (Builder, Factory, Strategy, Chain of Responsibility, Observer e Singleton). Gerencia pedidos digitais e físicos, cálculo de frete, validações e notificações.
+**[OrderFlow - Intelligent Order Processing System](https://github.com/EriveltonRocha77/-OrderFlow---Sistema-Inteligente-de-Processamento-de-Pedidos-)**  
+Java + Spring Boot API using Design Patterns (Builder, Factory, Strategy, Chain of Responsibility, Observer, and Singleton). Manages digital and physical orders, shipping calculation, validations, and notifications.
 
-**[Spring AI Dio - Budgeting com Inteligência Artificial](https://github.com/EriveltonRocha77/springaidio)**  
-API de orçamento pessoal com Spring AI. Processa comandos de voz (Speech-to-Text), executa use cases via Tool Calling e responde em áudio (Text-to-Speech). Arquitetura em camadas (DDD + Clean Architecture).
+**[Spring AI Dio - Budgeting with Artificial Intelligence](https://github.com/EriveltonRocha77/springaidio)**  
+Personal budgeting API powered by Spring AI. Processes voice commands (Speech-to-Text), executes use cases via Tool Calling, and responds with audio (Text-to-Speech). Layered architecture (DDD + Clean Architecture).
 
-**[Controle de Estoque Inteligente](https://github.com/EriveltonRocha77/controle-de-estoque)**  
-Sistema full-stack em C# (.NET / ASP.NET Core) com CRUD completo, KPIs em tempo real e suporte multi-idioma.
+**[Smart Inventory Control](https://github.com/EriveltonRocha77/controle-de-estoque)**  
+Full-stack system in C# (.NET / ASP.NET Core) with complete CRUD, real-time KPIs, and multi-language support.
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - 📧 **Email:** eriveltoncurriculo@gmail.com  
 - 📱 **WhatsApp:** +55 (16) 99612-7844 / +55 (16) 99386-2949  
 - 💼 **LinkedIn:** [linkedin.com/in/eriveltonrocha18](https://linkedin.com/in/eriveltonrocha18)  
-- 🌐 **Portfólio:** [eriveltonrochaportifolio1.pages.dev](https://eriveltonrochaportifolio1.pages.dev)
+- 🌐 **Portfolio:** [eriveltonrochaportifolio1.pages.dev](https://eriveltonrochaportifolio1.pages.dev)
