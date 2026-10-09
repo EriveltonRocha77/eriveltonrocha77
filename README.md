@@ -75,6 +75,14 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
 />
 <img 
   align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+  align="left" 
   alt="React"
   title="React" 
   width="30px" 
@@ -113,14 +121,6 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-  align="left" 
-  alt="SQL Server"
-  title="SQL Server" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
 
 <br/>
 <br/>
@@ -137,29 +137,34 @@ Desenvolvi uma plataforma **XDR (Extended Detection and Response)** com SIEM, de
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EriveltonRocha77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=EriveltonRocha77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
-
+  &nbsp;&nbsp;
   <img 
-    align="left" 
     alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriveltonRocha77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriveltonRocha77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
   />
 </p>
 
-<br/><br/>
+<br/>
+
+---
 
 ### 🚀 Projetos em Destaque
 
 **[XDR Neo-Platform | Enterprise Security Lab](https://github.com/EriveltonRocha77/-XDR-Platform-Enterprise-Security-Lab-)**  
 Plataforma full-stack de Extended Detection and Response (XDR) com FastAPI, Docker, SIEM, detecção de anomalias, regras YARA, SAST/DAST e arquitetura de microserviços.
+
+**[OrderFlow - Sistema Inteligente de Processamento de Pedidos](https://github.com/EriveltonRocha77/-OrderFlow---Sistema-Inteligente-de-Processamento-de-Pedidos-)**  
+API em Java + Spring Boot com Design Patterns (Builder, Factory, Strategy, Chain of Responsibility, Observer e Singleton). Gerencia pedidos digitais e físicos, cálculo de frete, validações e notificações.
+
+**[Spring AI Dio - Budgeting com Inteligência Artificial](https://github.com/EriveltonRocha77/springaidio)**  
+API de orçamento pessoal com Spring AI. Processa comandos de voz (Speech-to-Text), executa use cases via Tool Calling e responde em áudio (Text-to-Speech). Arquitetura em camadas (DDD + Clean Architecture).
 
 **[Controle de Estoque Inteligente](https://github.com/EriveltonRocha77/controle-de-estoque)**  
 Sistema full-stack em C# (.NET / ASP.NET Core) com CRUD completo, KPIs em tempo real e suporte multi-idioma.
